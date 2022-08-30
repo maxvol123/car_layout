@@ -3,7 +3,7 @@ body{
     height: 100%;
 }
 .header{
-    background-image: url(/img/Rectangle\ 64.png);
+    background-image: url(img/Rectangle\ 64.png);
     background-repeat: no-repeat;
     background-size:cover;
     overflow:hidden;
